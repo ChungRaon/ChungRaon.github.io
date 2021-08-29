@@ -1,2 +1,5 @@
-# ChungRaon.github.io
-This repository is for the Chungraon introduction page.
+## 청라온
+청라온은 수완뉴스의 지원으로 운영중인 청소년 기자단입니다.
+
+``본 페이지는 작성중인 페이지 입니다.``
+[청라온](https://chungraon.com)
